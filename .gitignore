@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EDoctor/EDoctor/obj
+/EDoctor/EDoctor/bin/Debug/netstandard2.0
+/EDoctor/EDoctor.iOS/obj
+/EDoctor/EDoctor.iOS/bin/iPhone/Debug
+/EDoctor/EDoctor/App.xaml
+/EDoctor/EDoctor.Android/obj
+/EDoctor/EDoctor.Android/bin/Debug
